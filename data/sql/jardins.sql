@@ -19,10 +19,9 @@
 -- Table structure for table `jardins`
 --
 
-DROP TABLE IF EXISTS `jardins`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
-CREATE TABLE `jardins` (
+CREATE TABLE IF NOT EXISTS `jardins` (
   `id` int(10) NOT NULL AUTO_INCREMENT,
   `title` varchar(255) DEFAULT NULL,
   `address` varchar(512) DEFAULT NULL,
@@ -37,7 +36,7 @@ CREATE TABLE `jardins` (
 -- Dumping data for table `jardins`
 --
 
-LOCK TABLES `jardins` WRITE;
+DELETE FROM `jardins` ; LOCK TABLES `jardins` WRITE;
 /*!40000 ALTER TABLE `jardins` DISABLE KEYS */;
 INSERT INTO `jardins` VALUES (1,'Jardin du Palais Royal','Jardin du Palais Royal 2 place Colette, Jardin du Palais Royal 75001 Paris, France','48.86484179803,2.3377704418028');
 INSERT INTO `jardins` VALUES (2,'Abbaye de Chaalis','Abbaye de Chaalis, 60300 Fontaine-Chaalis, France','49.1472434,2.6862431');
@@ -421,10 +420,6 @@ INSERT INTO `jardins` VALUES (379,'Verger de Déduit : Jardin du Château de la 
 INSERT INTO `jardins` VALUES (380,'Villa et Jardins Ephrussi de Rothschild','1 Avenue Ephrussi de Rothschild, 06230 Saint-Jean-Cap-Ferrat, France','43.6966062,7.3284499');
 /*!40000 ALTER TABLE `jardins` ENABLE KEYS */;
 UNLOCK TABLES;
-
---
--- Dumping routines for database 'data'
---
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
 
 /*!40101 SET SQL_MODE=@OLD_SQL_MODE */;

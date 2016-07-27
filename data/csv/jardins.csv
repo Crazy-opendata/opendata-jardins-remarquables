@@ -1,0 +1,381 @@
+id;title;address;coordonnees
+1;"Jardin du Palais Royal";"Jardin du Palais Royal 2 place Colette, Jardin du Palais Royal 75001 Paris, France";48.86484179803,2.3377704418028
+2;"Abbaye de Chaalis";"Abbaye de Chaalis, 60300 Fontaine-Chaalis, France";49.1472434,2.6862431
+3;"Abbaye de Combelongue et ses Jardins";"Abbaye de Combelongue et ses Jardins Abbaye de Combelongue 09420 Rimont, France 42.987912,1.276509";42.987938857502,1.2764958600494
+4;"Abbaye de Daoulas et son Jardin";"Abbaye de Daoulas, 21 Rue de l'Église, 29460 Daoulas, France";48.3618718,-4.2650501000001
+5;"Abbaye St Georges";"Place de l'Abbaye, 76840 Saint-Martin-de-Boscherville, France";49.4443489,0.96275919999994
+6;"Arboretum de Balaine";"Arboretum de Balaine, Balaine, 03460 Villeneuve-sur-Allier, France";46.696451,3.247483
+7;"Arboretum de la Cude";"Arboretum de la Cude 70240 Mailleroncourt Charrette";47.728948976473,6.2713641588134
+8;"Arboretum de la Fosse";"Parc botanique de La Fosse, 41800 Fontaine-les-Coteaux, France";47.7764175,0.84644709999998
+9;"Arboretum de La Sédelle";"Villejoint, 23160 Crozant, France";46.361223,1.607364
+10;"Arboretum des grandes bruyères";"Ingrannes, France";47.990963,2.2110979
+11;"Arboretum des Prés des Culands - Conservatoire national d'Ilex (Houx)";"Route de la Nivelle, 45130 Meung-sur-Loire, France";47.844513,1.703252
+12;"Arboretum du Chemin de la Découverte";"Arboretum du Chemin de la Découverte 79500 Melle";46.224204576018,-0.14337606878667
+13;"Arboretum du Château d'Harcourt";"Château d'Harcourt, 13 Rue du Château, 27800 Harcourt, France";49.1739664,0.78692769999998
+14;"Arboretum du Château de Neuvic d'Ussel";"Arboretum du Château de Neuvic d'Ussel 10, place de la Mairie 19160 Neuvic, France";45.382892964435,2.2723538269836
+15;"Arboretum Marcel Kroenlein";"06420 Roure, France";44.090125,7.0889540000001
+16;"Arboretum National des Barres";"Arborétum, Domaine des Barres, 45290 Nogent-sur-Vernisson, France";47.84585,2.74163
+17;"Atelier Jardin";"Route de Cousance, 39270 Cressia, France";46.529373,5.476992
+18;"Bambouseraie de Prafrance";"Bambouseraie de Prafrance, Parc National des Cévennes, Domaine de Prafrance, 30140 Générargues, France";44.072635,3.979291
+19;"Château d'Arcelot et son";"Château d'Arcelot et son   Château d'Arcelot 21310 Arceau, France";47.369223306842,5.193081783081
+20;"Château Dauphin et ses Jardins";"Rue du Château, 63112 Blanzat, France";45.833678300575,2.8546956792725
+21;"Château de Berzé et ses Jardins";"Château de Berzé et ses Jardins Le Château, 71960 Berzé, France";46.387421097502,4.6890747412781
+22;"Château de Caradeuc";"Château de Caradeuc, 35190 Bécherel, France";48.293667,-1.9583230000001
+23;"Château de Châtillon-en-Bazois et ses jardins";"Château de Châtillon-en-Bazois et ses jardins Aponge, 58110 Châtillon-en-Bazois, France";47.075427441185,3.667356
+24;"Château de Drée  et ses Jardins";"Château de Drée, 71800 Curbigny, France";46.320724,4.308314
+25;"Château de Fontainebleau - Domaine national";"Jardin de Diane, 77300 Fontainebleau, France";48.4031571,2.6998473
+26;"Château de Hautefort et son Jardin";"Château de Hautefort, Le Bourg d'Hautefort, 24390 Hautefort, France";45.259693,1.144917
+27;"Château de Talmay et ses Jardins";"Château de Talmay et ses Jardins Place du Château 21270 Talmay, France";47.35657974706,5.4365193624268
+28;"Château de Vayres et son Jardin";"Château le Tertre, 33870 Vayres, France";44.883891,-0.33161900000005
+29;"Château et  Jardins du Rivau";"Château du Rivau, Rue du Château, 37120 Lémeré, France";47.103155,0.32363499999997
+30;"Château et Jardin d'Ainay-le-Vieil";"Château d'Ainay-le-Vieil, Rue de Drevant, 18200 Ainay-le-Vieil, France";46.6681944,2.5497222
+31;"Château et Jardin de La Bussière";"Château de la Bussière, 45230 La Bussière, France";47.7474119,2.7469648
+32;"Château et Jardins de Losse";"Château de Losse, 24290 Thonac, France";45.029748,1.128692
+33;"Château et Labyrinthe de Merville";"Château de Merville, 2 Place du Château, 31330 Merville, France";43.7190687,1.2999255
+34;"Château, Parc et Jardins d'Azay-le-Ferron";"Château d'Azay-le-Ferron, 33 Rue Hersent-Luzarche, 36290 Azay-le-Ferron, France";46.8513092,1.0695603
+35;"Domaine de Brantes";"Domaine de Brantes   157 Allée de Brantes, 84700 Sorgues, France";43.99756583641,4.8686171166412
+36;"Domaine de Charance";"Château de Charance, 05000 Gap, France";44.5757959,6.0522530000001
+37;"Domaine de Malmaison";"Domaine de Malmaison Site Classé Château de Malmaison, 92500 Rueil-Malmaison, France";48.874516041319,2.1769020212403
+38;"Domaine de Segrez Saint-Sulpice-de-Favières";"Parc de Segrez, 91910 Saint-Sulpice-de-Favières, France";48.547584,2.179
+39;"Domaine de Villarceaux";"Domaine de Villarceaux Domaine de Villarceaux 95710 Chaussy, France p>";49.121145757907,1.7096527656372
+40;"Domaine de Vizille, , Musée (Château), Parc Animalier";"Domaine de Vizille, , Musée (Château), Parc Animalier Musée de la Révolution française Parc Animalier 25 Rue de la République, Château de Vizille 38220 Vizille, France";45.075287324132,5.772750890213
+41;"Domaine du Rayol";"Domaine du Rayol, Le Jardin des Méditerranées, Avenue des Bèlges, 83820 Rayol-Canadel-sur-Mer, France";43.1563051,6.4818949
+42;"Domaine du Windeck";"Domaine du Windeck  51 Rue Principale 67530 Ottrott, France";48.458490157576,7.4284006418029
+43;"Domaine d’Orvès";"Domaine d’Orvès   Avenue de la Libération, Domaine d'Orvès 83160 La Valette-du-Var, France";43.142673754482,5.9973429487184
+44;"Domaine national de Rambouillet";"Domaine national de Rambouillet Site Classé Château de Rambouillet, Rue de la Motte Jardin Anglais 78120 Rambouillet, France";48.642080373023,1.8116752634766
+45;"Domaine national Versailles";"Amphithéâtre, 78000 Versailles, France";48.8166536,2.1044910000001
+46;"Domaine Régional de Chaumont sur Loire";"Domaine Régional de Chaumont sur Loire, 33 Rue du Mal de Lattre Tassigny, 41150 Chaumont-sur-Loire, France";47.4792473,1.1816311
+47;"Entre Cour et Jardin";"24 Rue Léon Jolly, 51120 Sézanne, France";48.7234245,3.7208579000001
+48;"Herbarium des Remparts";"Rue Brandt, 80230 Saint-Valery, France";50.187488,1.628451
+49;"Jardin A la Faulx";"103 Avenue de Landon, 39100 Dole, France";47.1047315,5.4876171
+50;"Jardin alpin du Lautaret";"Jardin alpin du Lautaret   Le Lautaret, 05480 Villar-d'Arène, France";45.03611093188,6.3996915745911
+51;"Jardin Annabelle";"1 Rue Roger Gabriel de Toytot, 39290 Rainans, France";47.1545213,5.4834026999999
+52;"Jardin Antique Méditerranéen";"Rue des Pioch, 34540 Balaruc-les-Bains, France";43.4433572,3.6841817
+53;"Jardin aquatique « Aux fleurs de l’eau »";"Jardin aquatique « Aux fleurs de l’eau »   Route de Maillane, 13690 Graveson, France";43.843040952274,4.7826212523926
+54;"Jardin Botanique";"Jardin Botanique 54 Chemin des Gougins 10400 Marnay-sur-Seine, France";48.513230443735,3.5556165367707
+55;"Jardin botanique alpin de la Jaÿsinia";"Jardin botanique alpin de la Jaÿsinia 46.08394751, 6.7258215 74340 Samoëns France";46.08415587329,6.7258644153442
+56;"Jardin Botanique de Gondremer";"Jardin Botanique de Gondremer Autrey Housseras  Gondremer 88700 Housseras, France";48.292292987407,6.7221420740357
+57;"Jardin Botanique de la Presle";"La Presle, 51480 Nanteuil-la-Forêt, France";49.1525109,3.925293
+58;"Jardin botanique de la Villa Thuret";"Jardin botanique de la villa Thuret, 90 Chemin Gustave Raymond, 06160 Antibes, France";43.5639729,7.1241605
+59;"Jardin botanique de l’université de Strasbourg";"Jardin botanique de l’université de Strasbourg  28 Rue Goethe, Jardin botanique de l’université de Strasbourg 67000 Strasbourg, France";48.583123275729,7.7680318161467
+60;"Jardin botanique de Nice";"Jardin botanique de la ville de Nice, 78 Avenue Corniche Fleurie, 06000 Nice, France";43.6848962,7.2095236
+61;"Jardin botanique du Château de Vauville";"Le Château, 50440 Vauville, France";49.6362005,-1.8449514
+62;"Jardin botanique du Col de Saverne";"Jardin botanique du Col de Saverne Col de Saverne, 67700 Saverne, 48.753883000, 7.336357000";48.753902515315,7.3365015723389
+63;"Jardin Botanique du Montet";"Jardin Botanique du Montet Jardin Botanique du Montet 54600 Villers-lès-Nancy, France";48.660726122782,6.1554653153443
+64;"Jardin Conservatoire des plantes tinctoriales";"Impasse du Château, Parc Naturel régional du Luberon, 84360 Lauris, France";43.7463534,5.3109099000001
+65;"Jardin d'art et d'essais";"Jardin d'art & d'essais, 76640 Normanville, France";49.6867823,0.59430780000002
+66;"Jardin de Baudouvin, La Valette du Var";"Baudouvin, 83160 La Valette-du-Var, France";43.1495489,5.9860037999999
+67;"Jardin de Boissonna";"Jardin de Boissonna Lieu dit Boissonna, 47120 Baleyssagues (44.675039,0.149856)";44.675200590043,0.14937248144531
+68;"Jardin de campagne";"Jardin de campagne 13 Rue de Butel 95810 Grisy-les-Plâtres, France";49.129061459017,2.0511177962951
+69;"Jardin de Clairbois";"Jardin de Clairbois 102 Route du Mont Epinguet 50700 Brix, France";49.552686109456,-1.5389088946899
+70;"Jardin de Forgeneuve";"Forgé Neuve, 58660 Coulanges-lès-Nevers, France";47.009544,3.197622
+71;"Jardin de Kerdalo";"Jardin de Kerdalo Jardin de Kerdalo, 22220 Trédarzec";48.790748014627,-3.2171263070068
+72;"Jardin de l'Abbaye de Fontenay";"Abbaye de Fontenay, 21500 Montbard, France";47.639651,4.389084
+73;"Jardin de L'Albarède";"L'Albarède, 24250 Saint-Cybranet, France";44.791393,1.160948
+74;"Jardin de l'Évêché";"Rue de l'Évêché, 81100 Castres, France";43.6035514,2.241343
+75;"Jardin de la bastide de Romégas";"Jardin de la bastide de Romégas   3992, Chemin de Saint Donat, 13100 Aix-en-Provence, France";43.548571724884,5.4525791269837
+76;"Jardin de la Chartreuse de Conty";"Conty, 24170 Saint-Germain-de-Belvès, France";44.806326,1.056616
+77;"Jardin de la Daille";"Florimont-Gaumier, France";44.6991609,1.239636
+78;"Jardin de la ferme bleue";"21 Rue Principale, 67110 Uttenhoffen, France";48.8917312,7.6554083999999
+79;"Jardin de la Fontaine";"Jardin de la Fontaine Jardin de la Fontaine 30000 Nîmes, France";43.840286327971,4.3498784883606
+80;"Jardin de la Fontaine de vie, Le Bois Orcan";"Château du Bois Orcan, 35530 Noyal-sur-Vilaine, France";48.06397,-1.502895
+81;"Jardin de la Ganille";"Rue du Puy la Ganille, 19200 Ussel, France";45.568178,2.335458
+82;"Jardin de la Louve";"Chemin de Saint-Gervais, Parc Naturel régional du Luberon, 84480 Bonnieux, France";43.8217122,5.3060288
+83;"Jardin de la Mothe";"La Mothe, 12260 Salles-Courbatiès, France";44.466986,2.1028180000001
+84;"Jardin de la petite Rochelle";"Jardin de la petite Rochelle 22 Rue du Prieuré 61110 Rémalard, France";48.428839730229,0.78021277116397
+85;"Jardin de la Poterie Hillen";"Jardin de la Poterie Hillen D28 - Lieu dit: au bord de la Gimone 43.286,0.6093 65230 Thermes-Magnoac";43.286016,0.60931200000005
+86;"Jardin de la Villa Arnaga";"Villa Arnaga, Avenue du Docteur Alexandre Camino, 64250 Cambo-les-Bains, France";43.36779,-1.4226224
+87;"Jardin de la Villa Fort France Grasse";"237 Avenue Antoine de Saint-Exupéry, 06130 Grasse, France";43.6733604,6.9461398
+88;"Jardin de Liliane";"Saint-Laurent-sur-Gorre, France";45.769864,0.95685400000002
+89;"Jardin de l’Abbaye de Fontfroide (site classé)";"ABBAYE DE FONTFROIDE, Route Départementale 613, 11100 Narbonne, France";43.127408,2.8984594
+90;"Jardin de l’ancienne abbaye de Valsaintes";"Boulinette, 04150 Simiane-la-Rotonde, France";43.957648,5.591916
+91;"Jardin de l’Escalier";"Rue de Pfaffenhoffen, 67170 Brumath, France";48.7410997,7.7088155
+92;"Jardin de l’Horticulture";"5 Rue Comté de Lambertye, 51200 Épernay, France";49.033304,3.9513082999999
+93;"Jardin de l’Hôtel de ville";"Jardin de l’Hôtel de ville 7 Avenue de Champagne, Mairie 51200 Épernay, France";49.043892854471,3.9589747841309
+94;"Jardin de l’écomusée des Monts du Forez";"Jardin de l’écomusée des Monts du Forez Rue Traversière, 42550 Usson-en-Forez, France";45.391121966342,3.9418995552949
+95;"Jardin de Marc Sauze à Éguilles";"105 Avenue Paul Magallon, 13510 Éguilles, France";43.5711459,5.3530684
+96;"Jardin de Mazet";"Monoblet, France";44.000216,3.885929
+97;"Jardin de paradis";"Jardin de paradis   2 Rue des Jardins, Jardin des Paradis 81170 Cordes-sur-Ciel, France";44.065307962105,1.9527034431305
+98;"Jardin de Planbuisson - Parc aux Bambous";"20 Rue Montaigne, 24480 Le Buisson-de-Cadouin, France";44.848605,0.90303760000006
+99;"Jardin de Pomone";"12 Rue du Château d'Eau, 17400 Saint-Denis-du-Pin, France";45.9844201,-0.53727950000007
+100;"Jardin de Saint Adrien";"Jardin de Saint Adrien Saint Adrien 34290 Servian, France";43.397820091746,3.3256533127197
+101;"Jardin des cinq roses";"Rue de l'Hôtel Dieu, 21240 Talant, France";47.3409642,5.0060828000001
+102;"Jardin des Herbes";"Jardin des Herbes Allee Sainte Anne (St Michel), 26700 La Garde-Adhémar, France 44.393228100,  4.755743400";44.39238567994,4.7523911693115
+103;"Jardin des Nénuphars Latour-Marliac";"Jardin des Nénuphars Latour-Marliac Le Bourg, Pépinières Latour-Marliac, 47110 Le Temple-sur-Lot";44.377357163685,0.52588620635993
+104;"Jardin des oubliées";"8 Place du Marché, 14490 Balleroy, France";49.180967,-0.83826650000003
+105;"Jardin des Plantes";"Jardin des Plantes, 14000 Caen, France";49.1894015,-0.37210600000003
+106;"Jardin des plantes";"Jardin des plantes Rue Stanislas Baudry, Jardin des plantes 44000 Nantes, France";47.219402154032,-1.543605186786
+107;"Jardin des Prébendes d'Oé";"Jardin des Prébendes d'Oé Jardin des Prébendes d'Oé, 37000 Tours, France";47.385050509567,0.6843927460327
+108;"Jardin des Prés Fichaux";"Jardin des Prés Fichaux     Boulevard de la République, 18000 Bourges, France";47.089263996357,2.3959451312135
+109;"Jardin des Rouges Vis";"11 Rue du Charme, 70400 Frahier-et-Chatebier, France";47.6665042,6.7400056
+110;"Jardin des Sambucs";"Le Villaret, 30570 Saint-André-de-Majencoules, France";44.0244069,3.6885150000001
+111;"Jardin des Vieilles vignes";"7 Rue du Château Neuf, 70140 Valay, France";47.3345731,5.6378925
+112;"Jardin Dominique Alexandre Godron";"Jardin Dominique Alexandre Godron Jardin Godron 54000 Nancy, France";48.694742182157,6.1890656981476
+113;"Jardin du Botrain";"Jardin du Botrain Le Botrain, 22530 Mûr-de-Bretagne, France";48.208486799868,-2.946037341278
+114;"Jardin du Chaigne";"Le Chaigne, 16120 Touzac, France";45.545912,-0.13383499999998
+115;"Jardin du Château de Bionnay";"Jardins de Bionnay, 69640 Lacenas, France";45.9903159,4.6528996
+116;"Jardin du Château de Bouges";"Jardin du Château de Bouges     Rue du Château, Château de Bouges 36110 Bouges, France";47.041674474746,1.6732777558198
+117;"Jardin du Château de Chaumont";"Château de Chaumont, 71800 Oyé, France";46.332778,4.2044080000001
+118;"Jardin du Château de Digeon";"Jardin du Château de Digeon 7, rue du Coq Gaulois Digeon 80590 Morvillers-Saint-Saturnin, France";49.764246630014,1.794823656128
+119;"Jardin du Château de Digoine";"Château de Digoine, 71430 Palinges, France";46.531955,4.2117519999999
+120;"Jardin du château de Kolbsheim";"Rue du Château, 67120 Kolbsheim, France";48.5597043,7.5859813
+121;"Jardin du Château de la Ballue";"Jardin du Château de la Ballue La Balue, 35560 Bazouges-la-Pérouse, France";48.443408261047,-1.5382455894104
+122;"Jardin du Château de la Mothe";"Chalandray, France";46.661168,-0.0029890000000705
+123;"Jardin du Château de la Muette";"2 Rue du Château, 02600 Largny-sur-Automne, France";49.2606906,3.0362544
+124;"Jardin du Château de la Roche Jagu";"Château de la Roche-Jagu, 22260 Ploëzal, France";48.7332646,-3.1510341000001
+125;"Jardin du Château de Lantilly";"Jardin du Château de Lantilly Château de Lantilly, 21140 Lantilly, France 47.5431,4.3791";47.236396892922,3.7193733055573
+126;"Jardin du Château de Limanton";"Château d'Arcilly, 58290 Limanton, France";46.9453079,3.7581971
+127;"Jardin du Château de Maizicourt";"29 Route d'Amiens, 80370 Maizicourt, France";50.1950417,2.1251027000001
+128;"Jardin du Château de Miromesnil";"Château de Miromesnil, Rue de Miromesnil, 76550 Tourville-sur-Arques, France";49.861388,1.0817825
+129;"Jardin du Château de Montréal";"Château de Montréal, 24400 Issac, France";45.0117,0.43094199999996
+130;"Jardin du Château de Pange";"Château de Pange, 57530 Pange, France";49.083599,6.353863
+131;"Jardin du Château de Saint Bernard";"152 Avenue Suzanne Valadon, 01600 Saint-Bernard, France";45.944806,4.7324633000001
+132;"Jardin du Château de Sassy (site classé)";"Jardin du Château de Sassy (site classé) Château de Sassy 61570 Saint-Christophe-le-Jajolet, France";48.656171281941,0.0014554259338411
+133;"Jardin du château de Val Joanis";"Rue de la Plaine du Château, Parc Naturel régional du Luberon, 84120 Pertuis, France";43.6872755,5.5041756000001
+134;"Jardin du Château du Colombier";"Château du Colombier, 22150 Hénon, France";48.400289,-2.67803
+135;"Jardin du Clos de Villeneuve";"Clos de Villeneuve, 04210 Valensole, France";43.8323714,5.978027
+136;"Jardin du Cloître Notre Dame de Marmande";"Jardin du Cloître Notre Dame de Marmande Allée Eglise, 47200 Marmande, France";44.497512236644,0.16377130926207
+137;"Jardin du Conservatoire Botanique National de Brest";"Conservatoire Botanique, 52 Allée du Bot, 29200 Brest, France";48.4029204,-4.4483614000001
+138;"Jardin du Domaine de George Sand";"Maison De George Sand, Le Domaine de Preugnarnaul, 36400 Nohant-Vic, France";46.604875,1.947626
+139;"Jardin du Domaine de la Chaux";"Château de la Chaux, 58230 Alligny-en-Morvan, France";47.2239379,4.1382610000001
+140;"Jardin du domaine de Sasnières";"Jardin du Plessis, Rue du Château, 41310 Sasnières, France";47.7187043,0.93264009999996
+141;"Jardin du Donjon de Vez";"Donjon de Vez, 3 Rue de la Côte de Vez, 60117 Vez, France";49.2632826,3.0008845
+142;"Jardin du Fond de l’or, Lugon";"7 Rue Antoine de Saint-Exupéry, 33240 Lugon-et-l'Île-du-Carnay, France";44.9571764,-0.3541937
+143;"Jardin du Grand Launay";"Jardin du Grand Launay Grand Launay, 22480 Lanrivain";48.369057171118,-3.2134993862305
+144;"Jardin du Kestellic - Jardin exotique";"Le Kestellic - Jardin exotique, 1 Le Kestellic, 22220 Plouguiel, France";48.799403,-3.226131
+145;"Jardin du mas de l’Abri";"Jardin du mas de l’Abri 44.3978,3.9699 30450 Ponteils et Bresis";44.397839,3.9699479999999
+146;"Jardin du Mont des Récollets";"Jardin du Mont des Récollets, 1936 Route de Steenvoorde, 59670 Cassel, France";50.8024284,2.5050009
+147;"Jardin du Musée d’Art Américain";"Les Jardins du Musée des Impressionnismes Giverny, 27620 Giverny, France";49.0761261,1.5310129
+148;"Jardin du Musée Gantner";"Musée Gantner, 90300 Lachapelle-Sous-Chaux, France";47.71016,6.811503
+149;"Jardin du Musée Hébert";"Jardin du Musée Hébert Chemin Hébert, Musée Hébert, 38700 Tronche (La), France";45.205726926881,5.7501825089844
+150;"Jardin du Palais de la Berbie";"Palais de la Berbie, 81000 Albi, France";43.9294579,2.1424031
+151;"Jardin du peintre Van Beek";"Jardin du peintre Van Beek 1 Rue des Auges 60650 Saint-Paul, France";49.420902529383,2.0073062986725
+152;"Jardin du Pellinec";"Pellinec, 22710 Penvénan, France";48.831251,-3.2969869999999
+153;"Jardin du Point du jour";"Le Point du Jour, 77510 Verdelot, France";48.8907585,3.3676101
+154;"Jardin du Prieuré";"Pargues, France";48.033338,4.197752
+155;"Jardin du Prieuré de Laverré";"Laverré, 86340 Aslonnes, France";46.4690749,0.31630100000007
+156;"Jardin du prieuré de Locmaria";"Locmaria, 29000 Quimper, France";47.9882009,-4.112014
+157;"Jardin du Prieuré Notre-Dame d'Orsan";"Jardin du Prieuré Notre-Dame d'Orsan  Prieuré d'orsan, 18170 Maisonnais, France";46.676569985134,2.2187222857056
+158;"Jardin du Pré Catelan";"Le Pré Catelan, 28120 Illiers-Combray, France";48.2977111,1.2393368
+159;"Jardin du Tomple";"Le Tomple, 30450 Concoules, France";44.3629419,3.951159
+160;"Jardin d’Altitude du Haut-Chitelet";"Jardin d’Altitude du Haut-Chitelet Jardin d'Altitude 88400 Xonrupt-Longemer, France";48.051483466354,7.0114497269838
+161;"Jardin d’Argences";"Saussey, France";49.009422,-1.4329319999999
+162;"Jardin d’Atmosphère du Petit Bordeaux";"Jardin d’Atmosphère du Petit Bordeaux Le Petit Bordeaux 72220 Saint-Biez-en-Belin, France";47.809720767429,0.23805074603274
+163;"Jardin d’eau";"Derrière Gelaucourt, 54115 Gélaucourt, France";48.453474,5.99047
+164;"Jardin d’Ode";"Rue Sainte-Ode, 88140 Saint-Ouen-lès-Parey, France";48.1796682,5.763044
+165;"Jardin et Arboretum de Coursiana";"Delannoy Arnaud Michel, La Bourdette, 32480 Romieu (La), France";43.977252,0.49266699999998
+166;"Jardin et Château du Touvet";"Château du Touvet, 38660 Le Touvet, France";45.36348,5.9465709
+167;"Jardin et Musée du Palais Carnolès";"Musée des Beaux-Arts, 3 Avenue de la Madone, 06500 Menton, France";43.7665636,7.4880369
+168;"Jardin et Parc du Château";"Jardin et Parc du Château Château de Chantilly 60631 Chantilly, France";49.19456090026,2.4873162063599
+169;"Jardin et Parc du Château de Compiègne (site classé)";"Jardin et Parc du Château de Compiègne (site classé) Parc du Château 60200 Compiègne, France";49.417809608705,2.8361606571473
+170;"Jardin et parc du Château de Loubens";"Loubens-Lauragais, France";43.573787,1.78462
+171;"Jardin et parc du Château Larra";"Larra, 31330 Larra, France";43.74031,1.2257499
+172;"Jardin Exotique";"Jardin Exotique Jardin Exotique 29680 Roscoff, France";48.716059348493,-3.9695776367706
+173;"Jardin François";"Le Clos, 61340 Préaux-du-Perche, France";48.299348,0.68210099999999
+174;"Jardin Georges Delaselle";"Jardin Georges Delaselle Jardin Georges Delaselle, 29253 Île-de-Batz, France";48.73907641196,-3.9925888637542
+175;"Jardin Germaine l’Hardy-Denonain";"Rue de la Tasco, 83580 Gassin, France";43.2288296,6.5856464
+176;"Jardin Jacques Prévert";"50440 Saint-Germain-des-Vaux, France";49.710688,-1.91322
+177;"Jardin Japonais de Compans Cafarelli";"Jardin Japonais de Compans Cafarelli Jardin Japonais 31000 Toulouse, France";43.612077112356,1.4322831221984
+178;"Jardin le Bois Marquis";"Bois Marquis, 38150 Vernioz, France";45.430471,4.883153
+179;"Jardin Le Clos Alexandre";"Jardin Le Clos Alexandre, 229 Rue des 4 Lemaire, 80000 Amiens, France";49.8806507,2.2743525999999
+180;"Jardin Massey";"Jardin Massey Jardin Massey 65000 Tarbes, France";43.238001249256,0.075978088885449
+181;"Jardin Monastique Médiéval";"Le Bourg, 16140 Tusson, France";45.9339337,0.066781600000013
+182;"Jardin Médiéval du Château de la Guyonnière";"Château de la Guyonnière, 79420 Beaulieu-Sous-Parthenay, France";46.58271,-0.24304499999994
+183;"Jardin Public de Bordeaux";"Jardin Public de Bordeaux Jardin public 33000 Bordeaux";44.848992699425,-0.57828564285273
+184;"Jardin Royal";"Jardin Royal Jardin Royal 31000 Toulouse, France";43.595590796111,1.4500112931153
+185;"Jardin zen d’Erik Borja";"Jardin zen d’Erik Borja D153, 26600 Beaumont-Monteux, France";45.0413211175,4.9407510688477
+186;"Jardin Zoologique Tropical";"Jardin d'Oiseaux Tropicaux, 583 Route Saint-Honoré, 83250 La Londe-les-Maures, France";43.1474132,6.2551958
+187;"Jardins de Beauchamp";"Rue des Isserts, 47200 Marmande, France";44.509876,0.17116199999998
+188;"Jardins de Chaligny";"Chaligny, 85320 Sainte-Pexine, France";46.5326574,-1.1131998
+189;"Jardins de la Massonnière";"La Massonnière, 72540 Saint-Christophe-en-Champagne, France";47.967073,-0.14084100000002
+190;"Jardins de la Pellerine";"La Larderie, 53220 La Pellerine, France";48.317413,-1.0408640000001
+191;"Jardins de l’Abbaye de Valloires";"Jardins de l’Abbaye de Valloires Valloires 80120 Argoules, France";50.348741508828,1.8194323224761
+192;"Jardins de l’Abbaye Notre Dame";"2 Rue de l'Abbaye, 88700 Autrey, France";48.2964554,6.6881887
+193;"Jardins de Marqueyssac";"Jardins de Marqueyssac, Route de Vezac, 24220 Vezac, France";44.823186,1.162405
+194;"Jardins de Plantbessin";"Jardins de Plantbessin Le Château 14490 Castillon, France";49.20696490333,-0.79790559524531
+195;"Jardins du Bâtiment";"Le Bâtiment, 85210 Thiré, France";46.552551,-1.012567
+196;"Jardins du Chateau de Villandry";"Jardins du Chateau de Villandry sur : Le Château Les Jardins () 3 Rue Principale, Château de Villandry 37510 Villandry, France";47.339595143525,0.51439272275388
+197;"Jardins du Chateau du Pin";"Jardins du Chateau du Pin, 49123 Champtocé, France";47.427719,-0.84998300000007
+198;"Jardins du Château de Beaulon";"Château de Beaulon, 25 Rue Saint-Vincent, 17240 Saint-Dizant-du-Gua, France";45.4338734,-0.70450830000004
+199;"Jardins du château de Caudon";"Caudon, 24250 Domme, France";44.82331,1.237793
+200;"Jardins du Château de Cordés";"Château de Cordés, 63210 Orcival, France";45.702245,2.839332
+201;"Jardins du Château de Gastines";"Jardins du Château de Gastines 49150 Fougeré, France";47.619762249935,-0.14670238085932
+202;"Jardins du Château de Kerambarh";"Château de Kerambarh, 56690 Landaul, France";47.735827,-3.107773
+203;"Jardins du Château de la Bâtisse";"Château de la Bâtisse, 63450 Chanonat, France";45.691874,3.084323
+204;"Jardins du Château de la Roche Courbon";"Jardins du Château de la Roche Courbon Château de la Roche Courbon 17250 Saint-Porchaire, France";46.768953832811,-1.044816875
+205;"Jardins du Château de Momas";"Jardins du Château de Momas  Vidéo en Savoir Plus 64230 Momas";43.397517205322,-0.48969386245722
+206;"Jardins du Château de Mongenan";"Château de Mongenan, 16 Rue de Mongenan, 33640 Portets, France";44.6946067,-0.43128960000001
+207;"Jardins du Château de Poncé";"Château de Poncé, 72340 Poncé-sur-le-Loir, France";47.762658,0.65912500000002
+208;"Jardins du Château de Puisieux";"Jardins du Château de Puisieux Rue de l'Église 02120 Puisieux-et-Clanlieu, France";49.856060846273,3.6765985039522
+209;"Jardins du Château de Ransanne";"Château de Ransanne, 17250 Soulignonne, France";45.779381,-0.80038200000001
+210;"Jardins du Château de Touffou";"Jardins du Château de Touffou Château de Touffou 86300 Bonnes, France";46.616315867553,0.58793330555727
+211;"Jardins du Château de Villaines (site classé)";"Château de Villaines, 72210 Louplande, France";47.926791,0.017326000000025
+212;"Jardins du Château de Viven";"Jardins du Château de Viven  Vidéo en Savoir Plus Château Lamarche, 64450 Viven, France";43.459958575166,-0.37791071349181
+213;"Jardins du Château du Pin";"Jardins du Château du Pin Château du Pin, 44.6486,4.2902, 07380 Fabras";44.6486,4.2902
+214;"Jardins du château d’Hauterive";"Jardins du château d’Hauterive Route d'Hauterive, 63500 Issoire, France";45.536034637257,3.2349145066071
+215;"Jardins du château d’Opme";"Jardins du château d’Opme Opme 63540 Romagnat, France";45.706842077389,3.0900419073791
+216;"Jardins du Château la Bourlie";"Château la Bourlie, 24480 Urval, France";44.801314,0.94935899999996
+217;"Jardins du Domaine du Montmarin";"Domaine du Montmarin, Le Mont Marin, 35730 Pleurtuit, France";48.5996998,-2.0279621
+218;"Jardins du Donjon de Ballon";"Jardins du Donjon de Ballon  Rue du Château 72290 Ballon, France";48.1786610409,0.23364720503241
+219;"Jardins du Logis de Forgé";"Forgé, 16440 Mouthiers-sur-Boëme, France";45.552241,0.12753900000007
+220;"Jardins du Manoir d'Eyrignac";"Jardins du Manoir d'Eyrignac - Tourisme en Dordogne, 24590 Salignac, France";44.93976,1.315204
+221;"Jardins du manoir du Grand Courtoiseau";"Les Jardins du Grand Courtoiseau, 45220 Triguères, France";47.9384844,2.9659653
+222;"Jardins du Mirail";"Le Mirail, 72540 Crannes-en-Champagne, France";47.988718,-0.044730999999956
+223;"Jardins du Phare de Chassiron";"Phare de Chassiron, Pointe de Chassiron, 17650 St Denis d'Oléron, France";46.0466682,-1.4102375
+224;"Jardins et Château de Sauvan";"Sauvan, 04300 Mane, France";43.915975,5.764329
+225;"Jardins et Musée du prieuré de Salagon";"Le Prieuré, 04300 Mane, France";43.933627,5.761087
+226;"Jardins et Roseraie du Château";"Jardins et Roseraie du Château 2 Rue de l'Église 27930 Miserey, France";49.019550581193,1.2709046693114
+227;"Jardins Secrets";"Jardins Secrets Pont Valentré 46000 Cahors, France";44.444920808748,1.4309115238037
+228;"Jardins, Zoo, et Château de La Bourbansais";"Château de la Bourbansais, 35720 Pleugueneuc, France";48.4043769,-1.896968
+229;"La Bonne Maison";"La Bonne Maison, 99 Chemin des Fontanières, 69350 La Mulatière, France";45.7418233,4.8089869
+230;"La Citronneraie";"La Citronneraie   69 Corniche André Tardieu 06500 Menton, France";43.783147722082,7.488848741153
+231;"La Terre Pimprenelle";"La Terre Pimprenelle 44.9587,4.7116, Courbis, 07440 Alboussière";44.95874,4.711579
+232;"Le Clos du Coudray";"Le Clos du Coudray, 76850 Étaimpuis, France";49.642845,1.119832
+233;"Le Grand Jardin";"Chateau du Grand Jardin, 5 Avenue de la Marne, 52300 Joinville, France";48.4463915,5.1406116000001
+234;"Le jardin d' Elie Alexis";"Le jardin d' Elie Alexis, Les Baumes, 83136 La Roquebrussanne, France";43.350326,5.9822504
+235;"Le Jardin de l'Alchimiste";"Le Jardin de l'Alchimiste, 13810 Eygalières, France";43.772053,4.945146
+236;"Le jardin de Marguerite";"2 Rue du Verger, 67115 Plobsheim, France";48.4727666,7.7242051000001
+237;"Le jardin de Sylvie Fontaine";"12 Place Verte, 59550 Maroilles, France";50.1338665,3.7635672
+238;"Le Jardin des Cinq Sens";"Le Jardin des Cinq Sens - Yvoire, Rue du Lac, 74140 Yvoire, France";46.370564,6.325751
+239;"Le jardin des Lianes";"8 Rue des Capucins, 62140 Chériennes, France";50.3108483,2.0365241
+240;"Le Jardin des Martels -";"Les jardins des Martels, Les Martels, 81500 Giroussens, France";43.7469495,1.7849546
+241;"Le Jardin du Pèlerin";"Le Jardin du Pèlerin Barbacane 82110 Lauzerte, France";44.256158054435,1.1391067976226
+242;"Le Jardin Plume";"Le Jardin Plume, 790 Rue de la Plaine, 76116 Auzouville-sur-Ry, France";49.4354382,1.3307867999999
+243;"Le Jarditrain";"Le Jarditrain, 186 Chemin Neuf, 84210 Saint-Didier, France";44.0208631,5.108356
+244;"Le Parc aux Bambous";"Le Parc aux Bambous, 09500 Lapenne, France";43.1458696,1.7304099
+245;"Le petit Jard";"Le petit Jard 9 Boulevard Aristide Briand 51000 Châlons-en-Champagne, France";48.953279554348,4.3622679349182
+246;"Le Plantier de Costebelle";"Le Plantier de Costebelle   714 Fontaine des Horts 83400 Hyères, France";43.096749071705,6.1193184608214
+247;"Le Potager des Princes";"Le Potager des Princes, 17 Rue de la Faisanderie, 60500 Chantilly, France";49.1953461,2.4761762000001
+248;"Le Potager du Roi";"Le Potager du Roi 10 Rue du Maréchal Joffre, Jardin du Roi 78000 Versailles, France";48.804478331714,2.1106142055571
+249;"Les Arbres du Monde (Arboretum de Poërop)";"Les Arbres du Monde (Arboretum de Poërop) Arboretum du Poërop 29690 Huelgoat, France";48.3562980171,-3.7391971851807
+250;"Les jardins artistiques de Drulon";"De Drulon, D997, 18170 Loye-sur-Arnon, France";46.610432,2.390127
+251;"Les Jardins d'Albertas";"Les Jardins d'Albertas, D8N, 13320 Bouc-Bel-air, France";43.4557506,5.4035046
+252;"Les jardins de Bellevue";"Les jardins de Bellevue Château du Manoir 76850 Beaumont-le-Hareng, France";49.674630981136,1.2233820317383
+253;"Les Jardins de Brocéliande";"Les Jardins de Brocéliande, Les Mesnils, 35310 Bréal-sous-Montfort, France";48.0540668,-1.8899
+254;"Les Jardins de Callunes";"Les Jardins de Callunes, 5 Chemin de la Prelle, 88210 Ban-de-Sapt, France";48.3403239,7.0148167
+255;"Les Jardins de Claude Monet";"Les Jardins de Claude Monet 84 Rue Claude Monet, Les Jardins de Claude Monet 27620 Giverny, France";49.075141497197,1.5344290944427
+256;"Les Jardins de Kermoureau";"Les Jardins de Kermoureau, Route de Herbignac, 44410 Herbignac, France";47.393904,-2.366363
+257;"Les Jardins de la Boirie";"Les Jardins de la Boirie Impasse des Jardins Les Jardins de la Boirie 17310 Saint-Pierre-d'Oléron, France";45.943333667108,-1.2886522915405
+258;"Les Jardins de la Chartreuse du Val Saint-Esprit";"Les Jardins de la Chartreuse du Val Saint-Esprit 1 Rue de Fouquières 62199 Gosnay, France";50.507661008112,2.5930844301636
+259;"Les Jardins de l’Imaginaire";"Les Jardins de l’Imaginaire Place du Foirail, 24120 Terrasson-Lavilledieu, France";45.126626250254,1.3036256981476
+260;"Les Jardins de mon Moulin";"Les Jardins de mon Moulin, 52300 Thonnance-lès-Joinville, France";48.4589495,5.1804882
+261;"Les jardins de Quercy";"Les jardins de Quercy Cambou 44.1736,1.8821 82330 Verfeil sur Seye";44.17355,1.88211
+262;"Les jardins de Roquelin";"Roquelin, 45130 Meung-sur-Loire, France";47.8252049,1.7085520000001
+263;"Les Jardins de Sardy";"Les Jardins de Sardy, Sardy, 24230 Vélines, France";44.85758,0.1145947
+264;"Les Jardins de Viels-Maisons";"Les Jardins de Viels-Maisons, 02540 Viels-Maisons, France";48.895534,3.3969426
+265;"Les jardins du Château de la Chatonnière";"Les jardins du Château de la Chatonnière     Route de Langeais, Château de la Chatonnière 37190 Azay-le-Rideau, France";47.280196164238,0.42100981349176
+266;"Les Jardins du Pays d'Auge";"Les Jardins du Pays d'Auge, 14340 Cambremer, France";49.1449596,0.050101000000041
+267;"Les Jardins Fruitiers";"Les Jardins Fruitiers, 2 Rue Bourger et Perrin, 57530 Laquenexy, France";49.0764236,6.3104552
+268;"L’Île Verte";"L’Île Verte Site Classé 34 Rue Eugène Sinet 92290 Châtenay-Malabry, France";48.772803876404,2.272834247638
+269;"Palmeraie du Sarthou";"Palmeraie du Sarthou, 32110 Bétous, France";43.714038,0.032411000000025
+270;"Parc Alfred Wallach";"Parc Alfred Wallach Rue des Sapins, Parc Wallach 68400 Riedisheim, France";47.736927759547,7.3593804947204
+271;"Parc Animalier, Château et  du Colombier";"Château du Colombier, Mondalazac, 12330 Salles-la-Source, France";44.487743,2.5297519000001
+272;"Parc Arboretum du Manoir aux Loups";"Parc Arboretum du Manoir aux Loups 300 Route de Neuville 59250 Halluin, France";50.762116054269,3.1456861116394
+273;"Parc Barbieux (site classé)";"Parc Barbieux (site classé) Parc Barbieux 59100 Roubaix, France";50.675943848263,3.1612517619019
+274;"Parc Bordelais";"Parc Bordelais Parc Bordelais, 33200 Bordeaux, France";44.852853295812,-0.60234436375424
+275;"Parc Borély";"Parc Borély, 13008 Marseille, France";43.2597,5.3805
+276;"Parc Botanique de Cornouaille";"Parc Botanique de Cornouaille, Kerlever, 29120 Combrit, France";47.8864761,-4.1891814000001
+277;"Parc Botanique de Haute Bretagne";"Parc Floral de Haute Bretagne, La Folletière, 35133 Le Chatellier, France";48.4298022,-1.2608407
+278;"Parc Botanique du Sarrat";"Parc Botanique du Sarrat, 40100 Dax, France";43.700165,-1.0493366000001
+279;"Parc de Chamarande";"Domaine départemental de Chamarande, 38 Rue du Commandant Maurice Arnoux, 91730 Chamarande, France";48.513276,2.2202338
+280;"Parc de Champs, Domaine national";"Parc de Champs, Domaine national  Parc de Champs 77420 Champs-sur-Marne, France";48.857338327827,2.6033949682617
+281;"Parc de Courson";"Domaine de Courson, 91680 Courson-Monteloup, France";48.600189,2.147059
+282;"Parc de Galleville";"Parc de Galleville Galleville 76560 Doudeville, France";49.731781772093,0.78773123278802
+283;"Parc de Gerland";"Parc de Gerland 24 Allée Pierre de Coubertin, Parc de Gerland, 69007 Lyon, France";45.723348919342,4.8222194695587
+284;"Parc de la Grange aux Champs";"Château de la Grange aux Champs, 55800 Nettancourt, France";48.879765,4.938519
+285;"Parc de la Magalone";"Parc de la Magalone, 13009 Marseille, France";43.2616017,5.3983726
+286;"Parc de la Marseillaise";"Avenue des Chasseurs Alpins, 68500 Guebwiller, France";47.904691,7.215787
+287;"Parc de la Tête d'Or";"Parc de la Tête d'Or Zoo Boulevard des Belges, Parc de la Tête d'Or, 69006 Lyon, France";45.778291224127,4.8532877137695
+288;"Parc de la Vallée aux Loups (Arboretum)";"Parc de la Vallée aux Loups, 87 Rue de Chateaubriand, 92290 Châtenay-Malabry, France";48.7733609,2.2674821000001
+289;"Parc de la Varenne";"Parc de la Varenne  9 Rue Victor Petin 55000 Haironville, France";48.686207554135,5.0832707563446
+290;"Parc de l’Abbaye de Royaumont";"Parc de l’Abbaye de Royaumont Fondation Royaumont Le Moulin de Royaumont 95270 Asnières-sur-Oise";49.147347143451,2.3825037990113
+291;"Parc de l’Etang";"Rue des Longeots, 70100 Battrans, France";47.4336186,5.6415672000001
+292;"Parc de Majolan";"Parc de Majolan Avenue du Général de Gaulle, Parc de Majolan, 33290 Blanquefort, France";44.900451016708,-0.64379654973754
+293;"Parc de Saint-Cloud - Domaine national";"Parc de Saint-Cloud - Domaine national Site Classé Parc de Saint-Cloud 92210 Saint-Cloud, France";48.832867319613,2.2018475967285
+294;"Parc de Saint-Léger";"Saint-Léger de Fourches, 21210 Champeau-en-Morvan, France";47.261187,4.1783869999999
+295;"Parc de Schoppenwihr";"Parc Naturel de Schoppenwihr, 68150 Ostheim, France";48.1345444,7.3615584
+296;"Parc de Wesserling";"Rue du Parc, 68470 Husseren-Wesserling, France";47.8859662,6.9980849999999
+297;"Parc des ruines du château de Kintzheim(site classé)";"Château de Kintzheim, 67600 Kintzheim, France";48.2562,7.3864129999999
+298;"Parc du 26ème Centenaire";"Grand Parc du XXVI Centenaire, 13010 Marseille, France";43.2805941,5.3949368
+299;"Parc du Château";"2 Rue du Bois, 62270 Séricourt, France";50.3055627,2.3175722
+300;"Parc du Château";"Parc du Château Le Château 61320 Le Champ-de-la-Pierre, France";48.607779746273,-0.20696746931151
+301;"Parc du Château Chavat";"Parc Château Chavat, 33720 Podensac, France";44.6563279,-0.35865480000007
+302;"Parc du Château d'Arlay";"Parc du Château d'Arlay Route de Proby 39140 Arlay, France";46.758615815345,5.5371508729859
+303;"Parc du Château d'Ouge";"Ouge, France";47.7968649,5.703983
+304;"Parc du Château de Bonnefontaine";"Château de Bonnefontaine, 35560 Antrain, France";48.446053,-1.490675
+305;"Parc du Château de Boutemont";"Château de Boutemont, 14100 Ouilly-le-Vicomte, France";49.189327,0.22177899999997
+306;"Parc du Château de Breteuil";"Château de Breteuil, Allée du Château, 78460 Choisel, France";48.680137,2.022814
+307;"Parc du Château de Brécy";"Saint-Gabriel-Brécy, France";49.277248,-0.56220400000007
+308;"Parc du Château de Canon";"Château de Canon, Avenue du Château, 14270 Mézidon-Canon, France";49.078556,-0.094618500000024
+309;"Parc du Château de Courances";"Château de Courances, Domaine de Courances, 13 Rue du Château, 91490 Courances, France";48.4415375,2.4700369
+310;"Parc du Château de Fléville";"Château de Fléville, 54710 Fléville-devant-Nancy, France";48.6265728,6.2020612
+311;"Parc du Château de Gerbéviller (site classé)";"Gerbéviller, France";48.494918,6.5098649
+312;"Parc du Château de Grenade";"Château de Grenade, 33650 Saint-Selve, France";44.633384,-0.46101899999996
+313;"Parc du Château de Groussay";"Château de Groussay, 78490 Montfort-l'Amaury, France";48.779237,1.820981
+314;"Parc du Château de la Napoule";"Le Château de la Napoule, Boulevard Henri Clews, 06210 Mandelieu-la-Napoule, France";43.5238189,6.9420354
+315;"Parc du Château de Lorière";"La Rouge, France";48.285715,0.70707200000004
+316;"Parc du Château de Saint-Jean de Beauregard";"Château de Saint-Jean de Beauregard, Rue du Château, 91940 Saint-Jean-de-Beauregard, France";48.6611603,2.1635761
+317;"Parc du Château de St Germain - Domaine National";"Les Parterres, 78100 Saint-Germain-en-Laye, France";48.9002198,2.0975946999999
+318;"Parc du Château de St Just";"Parc du Château de St Just 3 Rue du Potager 27950 Saint-Just, France";49.110947162091,1.4327197428529
+319;"Parc du Château de Thorigny";"Rue de la Division Leclerc, 89260 Thorigny-sur-Oreuse, France";48.2933106,3.4009977000001
+320;"Parc du château de Tourlaville";"Château de Ravalet, 50110 Tourlaville, France";49.629906,-1.566595
+321;"Parc du Château de Valgenceuse (site classé)";"18 Route de Nanteuil, 60300 Mont-l'Évêque, France";49.1952359,2.6325512
+322;"Parc du Château de Vandrimare (site classé)";"Le Parc, 27380 Radepont, France";49.352033,1.316178
+323;"Parc du Château de Vaux Le Vicomte";"Château de Vaux-Le-Vicomte, 77950 Maincy, France";48.564851,2.7139999999999
+324;"Parc du Château de Vendeuvre";"Parc du Château de Vendeuvre Château de Vendeuvre 14170 Vendeuvre, France";48.985556212401,-0.078430507934627
+325;"Parc du Château du Bosmelet (site classé)";"Parc du Château du Bosmelet (site classé) Cháteau du Bosmelet 76720 Auffay, France";49.701238647842,1.127568438623
+326;"Parc du Château du Champ de Bataille";"Parc du Château du Champ de Bataille Place du Château, Château du Champ de Bataille 27110 Le Neubourg, France";49.169406496758,0.86110069842528
+327;"Parc du domaine de Beaurepaire";"Martinvast, France";49.5946209,-1.663863
+328;"Parc du Domaine de l’Auneau";"Château de l'Auneau, 85110 Chantonnay, France";46.680638,-1.108442
+329;"Parc du domaine de Nacqueville";"Parc du domaine de Nacqueville Bois du Château de Nacqueville 50460 Urville-Nacqueville, France";49.659228562698,-1.7258803121948
+330;"Parc du Domaine de Sceaux";"Parc de Sceaux, 92330 Sceaux, France";48.767601,2.2965889
+331;"Parc du domaine royal - Château de Randan";"Château de Randan, Rue du Commerce, 63310 Randan, France";46.0152683,3.3576168
+332;"Parc du manoir de la Javelière";"Château de la Javelière, 45340 Montbarrois, France";48.043346,2.4097879999999
+333;"Parc du Manoir de Villers";"Manoir de Villers, 76113 Saint-Pierre-de-Manneville, France";49.389536,0.92986900000005
+334;"Parc du moulin d'Athie";"Rue du Moulin, 21500 Athie, France";47.565979,4.2556459
+335;"Parc du Moulin à Tan et ses serres tropicales";"Parc du Moulin à Tan, 28 Chemin de Babie, 89100 Sens, France";48.1859354,3.2782501
+336;"Parc du Mugel";"Parc du Mugel, 13600 La Ciotat, France";43.16436,5.604618
+337;"Parc Emmanuel Liais";"Parc Emmanuel Liais Rue de l'Abbaye 50100 Cherbourg-Octeville, France";49.642438434901,-1.6303190359375
+338;"Parc et  Château de Trévarez";"Parc et  Château de Trévarez Château Visitable Trevarez, Château de Trévarez, 29520 Saint-Goazec, France";48.155725083222,-3.8081639523925
+339;"Parc et Château de Chavaniac Lafayette";"Le Château, 43230 Chavaniac-Lafayette, France";45.157686,3.579644
+340;"Parc et Château de Thoiry";"Parc et Château de Thoiry Site Classé Château de Thoiry 78770 Thoiry, France";48.860296344471,1.7858898866943
+341;"Parc et Jardin de Bosmont";"Parc et Jardin de Bosmont 02250 Bosmont sur Serre";49.727916602061,3.8603382751464
+342;"Parc et jardin du Château";"Parc et jardin du Château Allée du Château 10600 Barberey-Saint-Sulpice, France";48.337159299476,4.0380577941955
+343;"Parc et jardin du Château";"Parc et jardin du Château Château  10400 La Motte-Tilly, France";48.472927455326,3.4369813534424
+344;"Parc et jardin du Château de Barbirey";"Parc et jardin du Château de Barbirey Rue du Château, 21410 Barbirey sur Ouche, France";47.252673653009,4.7555445711639
+345;"Parc et jardin du Château de Bournel";"Château de Bournel, 25680 Cubry, France";47.488727,6.416295
+346;"Parc et Jardin du Château de Clivoy";"Château de Clivoy, 53420 Chailland, France";48.206848,-0.86218099999996
+347;"Parc et jardin du Château de Flaugergues";"Château de Flaugergues, 1744 Avenue Albert Einstein, 34000 Montpellier, France";43.6100489,3.918552
+348;"Parc et Jardin du Château de l'Abrègement";"Château de l'Abrègement, 16700 Bioussac, France";46.028142,0.28003290000004
+349;"Parc et jardin du Château de Margon";"16 Rue du Château, 34320 Margon, France";43.4863461,3.3064829
+350;"Parc et jardin du Château de Sully";"Château de Sully, 71360 Sully, France";47.011279,4.4705759999999
+351;"Parc et jardins Château du Lude";"Château du Lude, Le Château, 72800 Le Lude, France";47.6475,0.15888900000004
+352;"Parc et Jardins du Château de Chenonceau";"Chateau de Chenonceau, Place de la Mairie, 37150 Chenonceaux, France";47.3250505,1.0702443
+353;"Parc et Jardins du Château de Valmer";"Parc et Jardins du Château de Valmer Valmer, 37210 Chançay, France";47.457354566473,0.88619714575498
+354;"Parc et Potager du Château Pouthet";"Château Pouthet, 24500 Eymet, France";44.6803389,0.41296799999998
+355;"Parc et Roseraie du Château Fort de Rambures";"Château Fort de Rambures, 8 Rue du Château, 80140 Rambures, France";49.9452358,1.7076782
+356;"Parc Floral d'Apremont";"Le Bourg, 18150 Apremont-sur-Allier, France";46.906479,3.047802
+357;"Parc Floral de la Source";"Parc Floral de la Source Parc Floral de la Source, 45100 Orléans, France";47.849567599244,1.9380567301635
+358;"Parc Floral des Moutiers";"Parc Floral des Moutiers, Route de l'Eglise, 76119 Varengeville-sur-Mer, France";49.9115739,0.98239119999994
+359;"Parc Jouvet";"Parc Jouvet Avenue de la Comète, 26000 Valence, France";44.929782794168,4.8860004513427
+360;"Parc Olbius Riquier - , Zoo";"Parc Olbius Riquier, Avenue Ambroise Thomas, 83400 Hyères, France";43.1107864,6.1364599
+361;"Parc Oriental";"Parc Oriental, Chemin du Grand Pont, 49360 Maulevrier, France";47.006688,-0.74956099999997
+362;"Parc Phoenix";"Parc Phoenix   405 Promenade des Anglais, Parc Phoenix 06200 Nice, France";43.668469153064,7.2174060814758
+363;"Parc Rochegude";"Parc Rochegude Parc Rochegude 81000 Albi, France";43.921419337475,2.1451060944428
+364;"Parc Saint Bernard";", 83400 Hyères, France";43.1235227,6.1276831
+365;"Parc Sainte Claire";"Parc Sainte Claire, 83400 Hyères, France";43.1208019,6.1225489999999
+366;"Parc Sainte-Marie";"Parc Sainte-Marie Avenue Boffrand, Parc Sainte Marie, 54000 Nancy, France";48.680242193328,6.1708206597717
+367;"Parc Victor Chevassu";"Parc Victor Chevassu, 56100 Lorient, France";47.7475495,-3.3859179999999
+368;"Parc Zoologique et Botanique de Mulhouse";"Parc Zoologique et Botanique de Mulhouse Zoo 51 Rue du Jardin Zoologique, Parc Zoologique et Botanique de Mulhouse 68100 Mulhouse, France";47.733356025163,7.3493114431305
+369;"Pavillon de Galon";"Pavillon de Galon   Parc Naturel régional du Luberon, Le Pavillon de Galon, Chemin de Galon 84160 Cucuron, France";43.773532413103,5.4508462428223
+370;"Potager fruitier du Château de La Roche-Guyon";"Château de La Roche-Guyon, 1 Rue de l'Audience, 95780 La Roche-Guyon, France";49.080971,1.6286
+371;"Pépinières et Roseraies Paul Croix";"20 Boulevard d'Almandet, 42220 Bourg-Argental, France";45.2984885,4.5695028
+372;"Roseraie de Berty";"Berty, 07110 Tauriers, France";44.550891,4.253057
+373;"Roseraie de l’Abbaye de Chaalis";"Abbaye de Chaalis, 60300 Fontaine-Chaalis, France";49.1472434,2.6862431
+374;"Roseraie des terrasses de l’évêché";"Roseraie de Blois, Impasse Saint-Jean, 41000 Blois, France";47.5888203,1.3377414
+375;"Roseraie du Châtelet";"14 Rue de Bourg-Sous-Châtelet, 90170 Anjoutey, France";47.7003418,6.9404023
+376;"Roseraie du Val de Marne";"Roseraie du Val de Marne, 94240 L'Haÿ-les-Roses, France";48.776257,2.334595
+377;"Serre de la Madone";"Serre de la Madone, 74 Route de Gorbio, 06500 Menton, France";43.7749591,7.4754015999999
+378;"Vallon du brec Coursegoules";"30 Route de l'Ourmeou, 06140 Coursegoules, France";43.7925825,7.0449900999999
+379;"Verger de Déduit : Jardin du Château de la Trémolière";"Château de la Trémolière, 15380 Anglards-de-Salers, France";45.20673,2.442033
+380;"Villa et Jardins Ephrussi de Rothschild";"1 Avenue Ephrussi de Rothschild, 06230 Saint-Jean-Cap-Ferrat, France";43.6966062,7.3284499
